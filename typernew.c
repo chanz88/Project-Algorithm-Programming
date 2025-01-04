@@ -8,7 +8,7 @@
 //Nama kelompok: Mamang racing
 //Valent Steve Asman 2802411235
 //Chandra Nafiadi Sovian 2802385741
-//Delyanis Nazwa Ghiffarini	2802566445
+//Delyanis Nazwa Ghiffarini 2802566445
 
 int i, j, k, sentinel, retry, correctAnswers, leaderboardWPM, topWPM[5], question[10][15], backToMainMenu = 0, wpm;
 float timeTaken, points, minutes, leaderboardScore, topScore[5];
